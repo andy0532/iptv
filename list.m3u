@@ -1,0 +1,93 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="cctv1HD" group-title="央视频道",CCTV1
+http://223.99.184.108:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000311/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="cctv2HD" group-title="央视频道",CCTV2
+http://223.99.184.108:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000317/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="cctv3HD" group-title="央视频道",CCTV3
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="cctv4HD" group-title="央视频道",CCTV4
+http://223.99.184.108:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000320/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="cctv5HD" group-title="央视频道",CCTV5
+http://112.17.40.145/PLTV/88888888/224/3221226400/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="cctv5plusHD" group-title="央视频道",CCTV5+
+http://223.99.190.46:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000316/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="cctv6HD" group-title="央视频道",CCTV6
+http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="cctv7HD" group-title="央视频道",CCTV7
+http://223.99.184.108:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000318/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="cctv8HD" group-title="央视频道",CCTV8
+http://112.17.40.145/PLTV/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="cctv9HD" group-title="央视频道",CCTV9
+http://223.99.184.108:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000319/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="cctv10HD" group-title="央视频道",CCTV10
+http://223.99.184.108:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000321/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="cctv11HD" group-title="央视频道",CCTV11
+http://117.169.120.140:8080/live/cctv-11/.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="cctv12HD" group-title="央视频道",CCTV12
+http://223.99.184.108:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000322/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="CCTV13" group-title="央视频道",CCTV13
+http://111.0.27.30/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="CCTV13" group-title="央视频道",CCTV13-源2
+http://119.167.204.85/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="CCTV14" group-title="央视频道",CCTV14
+http://223.99.190.48:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000323/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="湖南卫视" group-title="省级卫视",湖南卫视
+http://223.99.184.108:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000324/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="浙江卫视" group-title="省级卫视",浙江卫视
+http://223.99.184.108:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000305/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="东方卫视" group-title="省级卫视",东方卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000309/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="北京卫视" group-title="省级卫视",北京卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000302/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="江苏卫视" group-title="省级卫视",江苏卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000304/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="辽宁卫视" group-title="省级卫视",辽宁卫视
+http://223.99.185.113:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000326/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="天津卫视" group-title="省级卫视",天津卫视
+http://223.99.186.110:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000327/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="安徽卫视" group-title="省级卫视",安徽卫视
+http://223.99.190.48:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000328/index.m3u8
+#EXTINF:-1 tvg-name="QTV-1青岛新闻综合" tvg-logo="QTV-1青岛新闻综合" group-title="省内频道",青岛新闻综合
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8
+#EXTINF:-1 tvg-name="QTV-2青岛生活服务" tvg-logo="QTV-2青岛生活服务" group-title="省内频道",青岛生活服务
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000501/index.m3u8
+#EXTINF:-1 tvg-name="QTV-3青岛影视频道" tvg-logo="QTV-3青岛影视频道" group-title="省内频道",青岛影视频道
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000502/index.m3u8
+#EXTINF:-1 tvg-name="QTV-4青岛财经资讯" tvg-logo="QTV-4青岛财经资讯" group-title="省内频道",青岛财经资讯
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000503/index.m3u8
+#EXTINF:-1 tvg-name="QTV-5青岛都市频道" tvg-logo="QTV-5青岛都市频道" group-title="省内频道",青岛都市频道
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000504/index.m3u8
+#EXTINF:-1 tvg-name="QTV-6青岛青少旅游" tvg-logo="QTV-6青岛青少旅游" group-title="省内频道",青岛青少旅游
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000505/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="山东卫视" group-title="省内频道",山东卫视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000301/index.m3u8
+#EXTINF:-1 tvg-name="山东公共" tvg-logo="山东公共" group-title="省内频道",山东公共
+http://223.99.184.108:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000314/index.m3u8
+#EXTINF:-1 tvg-name="山东综艺" tvg-logo="山东综艺" group-title="省内频道",山东综艺
+http://39.137.76.32:8089/00/SNM/CHANNEL00000338/index.m3u8
+#EXTINF:-1 tvg-name=山东教育" tvg-logo="山东教育" group-title="省内频道",山东教育
+http://223.99.186.110:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000331/index.m3u8
+#EXTINF:-1 tvg-name=山东齐鲁" tvg-logo="齐鲁卫视" group-title="省内频道",齐鲁卫视
+http://223.99.184.108:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000313/index.m3u8
+#EXTINF:-1 tvg-name=山东体育" tvg-logo="山东体育" group-title="省内频道",山东体育
+http://223.99.184.108:8089/ucdn.sd.chinamobile.com/00/SNM/CHANNEL00000315/index.m3u8
+#EXTINF:-1 tvg-name=山东生活" tvg-logo="山东生活" group-title="省内频道",山东生活
+http://39.137.76.32:8089/00/SNM/CHANNEL00000336/index.m3u8
+#EXTINF:-1 tvg-name=山东影视" tvg-logo="山东影视" group-title="省内频道",山东影视
+http://39.137.76.32:8089/00/SNM/CHANNEL00000337/index.m3u8
+#EXTINF:-1 tvg-name=泰安一套" tvg-logo="泰安一套" group-title="省内频道",泰安一套
+http://39.137.76.32:8089/00/SNM/CHANNEL00000269/index.m3u8
+#EXTINF:-1 tvg-name=凤凰中文" tvg-logo="凤凰中文" group-title="境外频道",凤凰中文
+http://183.207.249.35/PLTV/3/224/3221226922/index.m3u8
+#EXTINF:-1 tvg-name=凤凰资讯" tvg-logo="凤凰资讯" group-title="境外频道",凤凰资讯
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 tvg-name=凤凰香港" tvg-logo="凤凰香港" group-title="境外频道",凤凰香港
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 tvg-name=三立新闻台" tvg-logo="三立新闻" group-title="境外频道",三立新闻
+http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 tvg-name=民视新闻台" tvg-logo="民视新闻" group-title="境外频道",民视新闻
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-name=海看4K" tvg-logo="海看4K" group-title="其他频道",海看4K
+http://39.137.76.32:8089/00/SNM/CHANNEL00000499/index.m3u8
+#EXTINF:-1 tvg-name=纯享4K" tvg-logo="纯享4K" group-title="其他频道",纯享4K
+http://112.50.243.7/PLTV/88888888/224/3221226825/1.m3u8
